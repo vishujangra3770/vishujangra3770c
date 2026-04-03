@@ -35,7 +35,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Navdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishujangra3770&show_icons=true&theme=tokyonight&v=2)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vishujangra3770&show_icons=true&theme=chartreuse-dark" />
 
 ---
 
