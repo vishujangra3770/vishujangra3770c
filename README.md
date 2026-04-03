@@ -35,7 +35,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Navdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishujangra3770&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Navdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishujangra3770&show_icons=true&theme=tokyonight&v=2)
 
 ---
 
